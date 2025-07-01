@@ -23,12 +23,14 @@ jupyter notebook CIS_9660_Exploratory_Data_Analysis_Class_practice.ipynb
 
 
 ## Project Structure
+
 cis_9660_data_mining_eda_online_retail/
 │
 ├── CIS_9660_Exploratory_Data_Analysis_Class_practice.ipynb
+├── cis_9660_exploratory_data_analysis_class_practice.py
 ├── README.md
 ├── requirements.txt
 └── images/
-    ├── monthly_revenue.png
-    ├── top_products.png
-    └── dashboard_summary.png
+├── monthly_revenue.png
+├── top_products.png
+└── dashboard_summary.png
